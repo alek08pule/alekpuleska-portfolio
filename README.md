@@ -28,17 +28,23 @@ Installation
 To get a local copy up and running, follow these simple steps:
 
 1. Clone the repo,
+
 git clone https://github.com/alek08pule/alekpuleska-portfolio.git
 
 2. Navigate to the project directory,
+
 cd alekpuleska-portfolio
+
 3. Install dependencies,
+
 npm I
 
-4. Fix the issue
+4. Fix the issue,
+
 npm audit fix
 
 4. Start the development server,
+
 npm start
 
 The application will open in your default browser on http://localhost:3000.
