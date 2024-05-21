@@ -2,7 +2,7 @@ import React, { useEffect } from "react";
 import useWindowSize from "../Hooks/useWindowSize";
 
 const colors = ["#0B0909", "#44444C", "#8C8C8C", "#D6D6D6", "#2B89B2"];
-const numBalls = 130;
+const numBalls = 100;
 
 const BackgroundAnimation = () => {
   const { height } = useWindowSize();
